@@ -1,4 +1,4 @@
-![body](https://github.com/1707akash/Netflix_assgn/assets/117883959/c1a1cfb1-e7e5-444f-95aa-cb482ead01f3)Github link- https://github.com/1707akash/Netflix_assgn
+Github link- https://github.com/1707akash/Netflix_assgn
 Hosted link- https://1707akash.github.io/Netflix_assgn/
 ![title](https://github.com/1707akash/Netflix_assgn/assets/117883959/def02f55-6223-42fa-9117-2cfe709d55b6)
 ![titlecode](https://github.com/1707akash/Netflix_assgn/assets/117883959/fa7dbbee-13b9-47f5-b9db-f5dad07061b3) <br>
